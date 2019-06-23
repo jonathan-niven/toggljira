@@ -1,0 +1,4 @@
+.idea/
+venv/
+secrets.yml
+.mypy_cache/
